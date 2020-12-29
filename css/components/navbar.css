@@ -26,6 +26,8 @@
   color: white;
 }
 
+/* Change the color of active/curent link on hover*/
+
 .topnav a.active:hover {
   background: #59b274;
   color: white;
